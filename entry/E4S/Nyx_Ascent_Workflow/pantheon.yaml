@@ -1,6 +1,6 @@
 pantheon:
     pantheon_version: 1.2 
-    pantheon_state: release
+    pantheon_state: development
 
 project:
     project_name: E4S 
