@@ -11,6 +11,9 @@
     commit:     39b6c8831ae68ed89f449eea0dc0ecc828d03fab
 ```
 
+   The `pantheon.yaml` file is a copy of the file from the workflow's 
+   `pantheon` directory. It contains the pantheon metadata about the project.
+
 1. Now you create the public entry for the project, by running the publish script 
    from the top level directory:
 
